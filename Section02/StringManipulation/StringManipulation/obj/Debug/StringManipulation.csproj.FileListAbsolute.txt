@@ -1,0 +1,6 @@
+/Users/Coyote/Projects/StringManipulation/StringManipulation/bin/Debug/StringManipulation.exe
+/Users/Coyote/Projects/StringManipulation/StringManipulation/bin/Debug/StringManipulation.pdb
+/Users/Coyote/Projects/StringManipulation/StringManipulation/obj/Debug/StringManipulation.csproj.AssemblyReference.cache
+/Users/Coyote/Projects/StringManipulation/StringManipulation/obj/Debug/StringManipulation.csproj.CoreCompileInputs.cache
+/Users/Coyote/Projects/StringManipulation/StringManipulation/obj/Debug/StringManipulation.exe
+/Users/Coyote/Projects/StringManipulation/StringManipulation/obj/Debug/StringManipulation.pdb
