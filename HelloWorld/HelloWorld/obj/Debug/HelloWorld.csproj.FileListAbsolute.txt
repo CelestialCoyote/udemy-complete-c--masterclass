@@ -1,0 +1,6 @@
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/HelloWorld/HelloWorld/bin/Debug/HelloWorld.pdb
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/HelloWorld/HelloWorld/obj/Debug/HelloWorld.csproj.AssemblyReference.cache
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/HelloWorld/HelloWorld/obj/Debug/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/HelloWorld/HelloWorld/obj/Debug/HelloWorld.exe
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/HelloWorld/HelloWorld/obj/Debug/HelloWorld.pdb
