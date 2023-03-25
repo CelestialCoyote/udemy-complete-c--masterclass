@@ -1,0 +1,6 @@
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section02/StringExercises/StringExercises/bin/Debug/StringExercises.exe
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section02/StringExercises/StringExercises/bin/Debug/StringExercises.pdb
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section02/StringExercises/StringExercises/obj/Debug/StringExercises.csproj.AssemblyReference.cache
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section02/StringExercises/StringExercises/obj/Debug/StringExercises.csproj.CoreCompileInputs.cache
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section02/StringExercises/StringExercises/obj/Debug/StringExercises.exe
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section02/StringExercises/StringExercises/obj/Debug/StringExercises.pdb
