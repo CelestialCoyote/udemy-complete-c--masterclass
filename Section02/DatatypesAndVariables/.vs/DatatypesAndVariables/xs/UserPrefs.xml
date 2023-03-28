@@ -1,13 +1,14 @@
-﻿<Properties StartupConfiguration="{C6C90070-4AA2-4EBC-9C05-D1D830A275FF}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="StringExercises/Program.cs">
+﻿<Properties StartupConfiguration="{6C6D216F-FA3A-4EE3-8593-3870E41F62D0}|Default">
+  <MonoDevelop.Ide.ItemProperties.DatatypesAndVariables FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DatatypesAndVariables/Program.cs">
     <Files>
-      <File FileName="StringExercises/Program.cs" Line="28" Column="51" />
+      <File FileName="DatatypesAndVariables/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="StringExercises" expanded="True">
-            <Node name="StringExercises" expanded="True">
+          <Node name="DatatypesAndVariables" expanded="True">
+            <Node name="DatatypesAndVariables" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -21,5 +22,4 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.StringExercises PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
