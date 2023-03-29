@@ -1,0 +1,6 @@
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section03/TryCatch/TryCatch/bin/Debug/TryCatch.exe
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section03/TryCatch/TryCatch/bin/Debug/TryCatch.pdb
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section03/TryCatch/TryCatch/obj/Debug/TryCatch.csproj.AssemblyReference.cache
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section03/TryCatch/TryCatch/obj/Debug/TryCatch.csproj.CoreCompileInputs.cache
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section03/TryCatch/TryCatch/obj/Debug/TryCatch.exe
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section03/TryCatch/TryCatch/obj/Debug/TryCatch.pdb

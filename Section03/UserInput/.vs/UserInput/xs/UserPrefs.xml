@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{911426A0-5509-4D98-AE6A-6429BEFB9684}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Constants/Program.cs">
+﻿<Properties StartupConfiguration="{2DFC485D-E579-4BC8-854A-EDCC23B27ED4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UserInput/Program.cs">
     <Files>
-      <File FileName="Constants/Program.cs" Line="18" Column="31" />
+      <File FileName="UserInput/Program.cs" Line="16" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Constants" expanded="True">
-            <Node name="Constants" expanded="True">
+          <Node name="UserInput" expanded="True">
+            <Node name="UserInput" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,9 +15,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.UserInput PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
-  <MonoDevelop.Ide.ItemProperties.Constants PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

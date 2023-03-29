@@ -1,13 +1,14 @@
-﻿<Properties StartupConfiguration="{911426A0-5509-4D98-AE6A-6429BEFB9684}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Constants/Program.cs">
+﻿<Properties StartupConfiguration="{598CB95D-F254-497D-95DF-D650D45BE301}|Default">
+  <MonoDevelop.Ide.ItemProperties.TryCatch FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TryCatch/Program.cs">
     <Files>
-      <File FileName="Constants/Program.cs" Line="18" Column="31" />
+      <File FileName="TryCatch/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Constants" expanded="True">
-            <Node name="Constants" expanded="True">
+          <Node name="TryCatch" expanded="True">
+            <Node name="TryCatch" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -17,7 +18,6 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
-  <MonoDevelop.Ide.ItemProperties.Constants PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
