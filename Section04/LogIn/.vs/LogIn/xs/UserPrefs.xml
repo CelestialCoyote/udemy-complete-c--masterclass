@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{F0C74BB8-4808-4501-94B7-3CC372B3A913}|Default">
-  <MonoDevelop.Ide.ItemProperties.NestedIfStatements PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="NestedIfStatements/Program.cs">
+﻿<Properties StartupConfiguration="{049F9F72-E753-4DE3-9A87-02390118D22D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LogIn/Program.cs">
     <Files>
-      <File FileName="NestedIfStatements/Program.cs" Line="24" Column="57" />
+      <File FileName="LogIn/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="NestedIfStatements" expanded="True">
-            <Node name="NestedIfStatements" expanded="True">
+          <Node name="LogIn" expanded="True">
+            <Node name="LogIn" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -17,6 +16,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LogIn FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
