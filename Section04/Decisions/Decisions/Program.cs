@@ -14,13 +14,19 @@ namespace Decisions
             if (int.TryParse(temperature, out number))
                 numTemp = number;
             else
+            {
                 numTemp = 0;
-
-            if (numTemp < 20) {
+                Console.WriteLine("Invalid entry, temperature set to 0.");
+            }
+            
+            if (numTemp < 20)
+            {
                 Console.WriteLine("Take the coat.");
-            } else if (numTemp == 20) {
+            } else if (numTemp == 20)
+            {
                 Console.WriteLine("Casual.");
-            } else {
+            } else
+            {
                 Console.WriteLine("Shorts and t-shirt.");
             }
 
