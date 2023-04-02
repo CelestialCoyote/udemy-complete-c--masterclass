@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{598CB95D-F254-497D-95DF-D650D45BE301}|Default">
-  <MonoDevelop.Ide.ItemProperties.TryCatch PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TryCatch/Program.cs">
+﻿<Properties StartupConfiguration="{959BA0EC-211D-43DF-9B44-72E70DFBD3F7}|Default">
+  <MonoDevelop.Ide.ItemProperties.Decisions FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Decisions/Program.cs">
     <Files>
-      <File FileName="TryCatch/Program.cs" Line="22" Column="61" />
+      <File FileName="Decisions/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TryCatch" expanded="True">
-            <Node name="TryCatch" expanded="True">
+          <Node name="Decisions" expanded="True">
+            <Node name="Decisions" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
