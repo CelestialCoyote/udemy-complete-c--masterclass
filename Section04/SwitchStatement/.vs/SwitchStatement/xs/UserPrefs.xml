@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{049F9F72-E753-4DE3-9A87-02390118D22D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="LogIn/Program.cs">
+﻿<Properties StartupConfiguration="{D0030049-AA7A-40D1-9E5F-21236F61FED7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwitchStatement/Program.cs">
     <Files>
-      <File FileName="LogIn/Program.cs" Line="45" Column="18" />
+      <File FileName="SwitchStatement/Program.cs" Line="39" Column="28" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="LogIn" expanded="True">
-            <Node name="LogIn" expanded="True">
+          <Node name="SwitchStatement" expanded="True">
+            <Node name="SwitchStatement" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,8 +15,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SwitchStatement PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.LogIn PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
