@@ -1,13 +1,14 @@
-﻿<Properties StartupConfiguration="{DEAFF4FD-2F6E-4369-A86F-1AC72AD7CC19}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="IfStatementChallenge2/Program.cs">
+﻿<Properties StartupConfiguration="{F514184C-18F6-44D0-8DCB-C5C69CABF249}|Default">
+  <MonoDevelop.Ide.ItemProperties.EnhancedIfStatement FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EnhancedIfStatement/Program.cs">
     <Files>
-      <File FileName="IfStatementChallenge2/Program.cs" Line="15" Column="27" />
+      <File FileName="EnhancedIfStatement/Program.cs" Line="11" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="IfStatementChallenge2" expanded="True">
-            <Node name="IfStatementChallenge2" expanded="True">
+          <Node name="EnhancedIfStatement" expanded="True">
+            <Node name="EnhancedIfStatement" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,7 +16,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.IfStatementChallenge2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
