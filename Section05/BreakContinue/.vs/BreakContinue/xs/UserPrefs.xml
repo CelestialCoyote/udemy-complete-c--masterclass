@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{C4C4208E-55B5-45B0-987E-56BEE5902CDB}|Default">
-  <MonoDevelop.Ide.ItemProperties.DoWhileLoop PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DoWhileLoop/Program.cs">
+﻿<Properties StartupConfiguration="{569A688D-5708-4BC7-ACBB-351E9B29BFE8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BreakContinue/Program.cs">
     <Files>
-      <File FileName="DoWhileLoop/Program.cs" Line="11" Column="35" />
+      <File FileName="BreakContinue/Program.cs" Line="47" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="DoWhileLoop" expanded="True">
-            <Node name="DoWhileLoop" expanded="True">
+          <Node name="BreakContinue" expanded="True">
+            <Node name="BreakContinue" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -18,6 +17,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.BreakContinue PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

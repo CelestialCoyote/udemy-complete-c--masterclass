@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{C4C4208E-55B5-45B0-987E-56BEE5902CDB}|Default">
-  <MonoDevelop.Ide.ItemProperties.DoWhileLoop PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DoWhileLoop/Program.cs">
+﻿<Properties StartupConfiguration="{C9D4E375-3DEB-42A4-81EE-9709FE879EE9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AverageChallenge/Program.cs">
     <Files>
-      <File FileName="DoWhileLoop/Program.cs" Line="11" Column="35" />
+      <File FileName="AverageChallenge/Program.cs" Line="28" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="DoWhileLoop" expanded="True">
-            <Node name="DoWhileLoop" expanded="True">
+          <Node name="AverageChallenge" expanded="True">
+            <Node name="AverageChallenge" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,6 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AverageChallenge FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
