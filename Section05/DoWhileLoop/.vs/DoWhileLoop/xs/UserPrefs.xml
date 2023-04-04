@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{F514184C-18F6-44D0-8DCB-C5C69CABF249}|Default">
-  <MonoDevelop.Ide.ItemProperties.EnhancedIfStatement PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="EnhancedIfStatement/Program.cs">
+﻿<Properties StartupConfiguration="{C4C4208E-55B5-45B0-987E-56BEE5902CDB}|Default">
+  <MonoDevelop.Ide.ItemProperties.DoWhileLoop FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DoWhileLoop/Program.cs">
     <Files>
-      <File FileName="EnhancedIfStatement/Program.cs" Line="51" Column="62" />
+      <File FileName="DoWhileLoop/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="EnhancedIfStatement" expanded="True">
-            <Node name="EnhancedIfStatement" expanded="True">
+          <Node name="DoWhileLoop" expanded="True">
+            <Node name="DoWhileLoop" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
