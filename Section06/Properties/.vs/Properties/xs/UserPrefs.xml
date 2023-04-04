@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{C9D4E375-3DEB-42A4-81EE-9709FE879EE9}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="AverageChallenge/Program.cs">
+﻿<Properties StartupConfiguration="{0A195173-D0E1-4369-9E79-23DF5CCFB065}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Properties/Program.cs">
     <Files>
-      <File FileName="AverageChallenge/Program.cs" Line="16" Column="55" />
+      <File FileName="Properties/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="AverageChallenge" expanded="True">
-            <Node name="AverageChallenge" expanded="True">
+          <Node name="Properties" expanded="True">
+            <Node name="Properties" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.AverageChallenge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Properties FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

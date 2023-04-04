@@ -13,7 +13,7 @@ namespace AverageChallenge
 
             while (input != "-1")
             {
-                Console.WriteLine($"Last number was {currentEntry}");
+                Console.WriteLine($"Last score entered was {currentEntry}");
                 Console.WriteLine("Enter next score.");
                 Console.WriteLine($"Total entries {count}");
                 Console.WriteLine($"Enter -1 to calculate average score.");

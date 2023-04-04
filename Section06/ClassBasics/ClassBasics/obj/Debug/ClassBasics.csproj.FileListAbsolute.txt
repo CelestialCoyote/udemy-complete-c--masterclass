@@ -1,0 +1,6 @@
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section06/ClassBasics/ClassBasics/bin/Debug/ClassBasics.exe
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section06/ClassBasics/ClassBasics/bin/Debug/ClassBasics.pdb
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section06/ClassBasics/ClassBasics/obj/Debug/ClassBasics.csproj.AssemblyReference.cache
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section06/ClassBasics/ClassBasics/obj/Debug/ClassBasics.csproj.CoreCompileInputs.cache
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section06/ClassBasics/ClassBasics/obj/Debug/ClassBasics.exe
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section06/ClassBasics/ClassBasics/obj/Debug/ClassBasics.pdb
