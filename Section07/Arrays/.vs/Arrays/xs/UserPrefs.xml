@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{17A6ECBD-160B-4C5A-BAE4-E18773C10893}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Members/Program.cs">
+﻿<Properties StartupConfiguration="{25BCEA65-4AAB-43BB-B67E-3801FCA89F04}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Arrays/Program.cs">
     <Files>
-      <File FileName="Members/Program.cs" Line="14" Column="28" />
-      <File FileName="Members/Member.cs" Line="51" Column="55" />
+      <File FileName="Arrays/Program.cs" Line="9" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Members" expanded="True">
-            <Node name="Members" expanded="True">
+          <Node name="Arrays" expanded="True">
+            <Node name="Arrays" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,11 +15,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Arrays FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Members PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
