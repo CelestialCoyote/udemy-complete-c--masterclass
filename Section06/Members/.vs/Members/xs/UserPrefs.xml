@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{17A6ECBD-160B-4C5A-BAE4-E18773C10893}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Members/Member.cs">
+    <Files>
+      <File FileName="Members/Program.cs" Line="1" Column="1" />
+      <File FileName="Members/Member.cs" Line="6" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Members" expanded="True">
+            <Node name="Members" expanded="True">
+              <Node name="Member.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Members FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

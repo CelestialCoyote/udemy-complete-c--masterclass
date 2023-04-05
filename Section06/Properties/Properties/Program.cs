@@ -6,7 +6,12 @@ namespace Properties
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Box box = new Box(3, 4, 5);
+            
+            box.DisplayInfo();
+            Console.WriteLine($"Front surface = {box.FrontSurface}");
+
+            Console.Read();
         }
     }
 }

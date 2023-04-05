@@ -3,10 +3,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">anycpu</Platform>
-    <ProjectGuid>{0A195173-D0E1-4369-9E79-23DF5CCFB065}</ProjectGuid>
+    <ProjectGuid>{17A6ECBD-160B-4C5A-BAE4-E18773C10893}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Properties</RootNamespace>
-    <AssemblyName>Properties</AssemblyName>
+    <RootNamespace>Members</RootNamespace>
+    <AssemblyName>Members</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|anycpu' ">
@@ -32,7 +32,7 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Box.cs" />
+    <Compile Include="Member.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
