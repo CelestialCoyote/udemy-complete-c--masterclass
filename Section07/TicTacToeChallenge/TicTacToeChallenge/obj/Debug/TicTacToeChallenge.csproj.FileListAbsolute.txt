@@ -1,0 +1,6 @@
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/TicTacToeChallenge/TicTacToeChallenge/bin/Debug/TicTacToeChallenge.exe
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/TicTacToeChallenge/TicTacToeChallenge/bin/Debug/TicTacToeChallenge.pdb
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/TicTacToeChallenge/TicTacToeChallenge/obj/Debug/TicTacToeChallenge.csproj.AssemblyReference.cache
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/TicTacToeChallenge/TicTacToeChallenge/obj/Debug/TicTacToeChallenge.csproj.CoreCompileInputs.cache
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/TicTacToeChallenge/TicTacToeChallenge/obj/Debug/TicTacToeChallenge.exe
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/TicTacToeChallenge/TicTacToeChallenge/obj/Debug/TicTacToeChallenge.pdb
