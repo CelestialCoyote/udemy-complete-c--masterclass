@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.25
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDimensionalArrays", "MultiDimensionalArrays\MultiDimensionalArrays.csproj", "{F3F23722-8014-4D4E-8AFB-E51CCB8F9A77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3F23722-8014-4D4E-8AFB-E51CCB8F9A77}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{F3F23722-8014-4D4E-8AFB-E51CCB8F9A77}.Debug|anycpu.Build.0 = Debug|anycpu
+		{F3F23722-8014-4D4E-8AFB-E51CCB8F9A77}.Release|anycpu.ActiveCfg = Release|anycpu
+		{F3F23722-8014-4D4E-8AFB-E51CCB8F9A77}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE477865-9C8E-473C-BF4F-B82B2AFDF51C}
+	EndGlobalSection
+EndGlobal

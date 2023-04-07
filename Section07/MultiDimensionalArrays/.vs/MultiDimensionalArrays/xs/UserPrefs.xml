@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{7EFCEBEB-7F34-4A08-A29F-EEA4F3D83D90}|Default">
-  <MonoDevelop.Ide.ItemProperties.ForeachAndSwitchChallenge PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ForeachAndSwitchChallenge/Program.cs">
+﻿<Properties StartupConfiguration="{F3F23722-8014-4D4E-8AFB-E51CCB8F9A77}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MultiDimensionalArrays/Program.cs">
     <Files>
-      <File FileName="ForeachAndSwitchChallenge/Program.cs" Line="51" Column="67" />
+      <File FileName="MultiDimensionalArrays/Program.cs" Line="9" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ForeachAndSwitchChallenge" expanded="True">
-            <Node name="ForeachAndSwitchChallenge" expanded="True">
+          <Node name="MultiDimensionalArrays" expanded="True">
+            <Node name="MultiDimensionalArrays" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -18,6 +17,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.MultiDimensionalArrays FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
