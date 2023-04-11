@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{5C9EB28A-F932-4E63-A978-5F65AEE8BDFB}|Default">
-  <MonoDevelop.Ide.ItemProperties.TicTacToeChallenge PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TicTacToeChallenge/Program.cs">
+﻿<Properties StartupConfiguration="{59B082DE-9398-4291-A8D1-E8F51A6C5C19}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JaggedArray/Program.cs">
     <Files>
-      <File FileName="TicTacToeChallenge/Program.cs" Line="41" Column="36" />
+      <File FileName="JaggedArray/Program.cs" Line="28" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TicTacToeChallenge" expanded="True">
-            <Node name="TicTacToeChallenge" expanded="True">
+          <Node name="JaggedArray" expanded="True">
+            <Node name="JaggedArray" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -18,6 +17,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.JaggedArray PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
