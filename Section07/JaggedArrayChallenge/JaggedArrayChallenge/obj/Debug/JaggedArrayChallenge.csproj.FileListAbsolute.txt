@@ -1,0 +1,6 @@
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/JaggedArrayChallenge/JaggedArrayChallenge/bin/Debug/JaggedArrayChallenge.exe
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/JaggedArrayChallenge/JaggedArrayChallenge/bin/Debug/JaggedArrayChallenge.pdb
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/JaggedArrayChallenge/JaggedArrayChallenge/obj/Debug/JaggedArrayChallenge.csproj.AssemblyReference.cache
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/JaggedArrayChallenge/JaggedArrayChallenge/obj/Debug/JaggedArrayChallenge.csproj.CoreCompileInputs.cache
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/JaggedArrayChallenge/JaggedArrayChallenge/obj/Debug/JaggedArrayChallenge.exe
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/JaggedArrayChallenge/JaggedArrayChallenge/obj/Debug/JaggedArrayChallenge.pdb
