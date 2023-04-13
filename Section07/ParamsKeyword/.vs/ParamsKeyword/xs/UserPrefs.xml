@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{D5A5C386-85A8-4067-A5DB-5AC99BE1B8F8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ArraysAsParameters/Program.cs">
+﻿<Properties StartupConfiguration="{777FF4E8-5CD4-4F37-83F7-9F8F39F8D331}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ParamsKeyword/Program.cs">
     <Files>
-      <File FileName="ArraysAsParameters/Program.cs" Line="25" Column="38" />
+      <File FileName="ParamsKeyword/Program.cs" Line="12" Column="51" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ArraysAsParameters" expanded="True">
-            <Node name="ArraysAsParameters" expanded="True">
+          <Node name="ParamsKeyword" expanded="True">
+            <Node name="ParamsKeyword" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,8 +15,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.ArraysAsParameters PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ParamsKeyword PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

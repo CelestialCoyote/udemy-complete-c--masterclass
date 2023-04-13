@@ -1,13 +1,10 @@
-﻿<Properties StartupConfiguration="{D5A5C386-85A8-4067-A5DB-5AC99BE1B8F8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ArraysAsParameters/Program.cs">
-    <Files>
-      <File FileName="ArraysAsParameters/Program.cs" Line="25" Column="38" />
-    </Files>
+﻿<Properties StartupConfiguration="{83E4BEF6-3D17-436B-B014-FA76DA8D4DA1}|Default">
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ArraysAsParameters" expanded="True">
-            <Node name="ArraysAsParameters" expanded="True">
+          <Node name="ArrayList" expanded="True">
+            <Node name="ArrayList" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,9 +12,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.ArraysAsParameters PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.ArrayList FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
