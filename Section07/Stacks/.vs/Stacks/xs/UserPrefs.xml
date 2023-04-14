@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{0E73D221-92AA-413D-8617-E5170C15CEF8}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Dictionaries/Program.cs">
+﻿<Properties StartupConfiguration="{6179F22C-10F6-40BC-BACF-1F1423A718F6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Stacks/Program.cs">
     <Files>
-      <File FileName="Dictionaries/Program.cs" Line="17" Column="15" />
+      <File FileName="Stacks/Program.cs" Line="54" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Dictionaries" expanded="True">
-            <Node name="Dictionaries" expanded="True">
+          <Node name="Stacks" expanded="True">
+            <Node name="Stacks" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,9 +15,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Dictionaries PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Stacks PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
