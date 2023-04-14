@@ -76,6 +76,41 @@ namespace Dictionaries
             }
 
 
+            Console.WriteLine("");
+            Console.WriteLine("------------------------");
+            Console.WriteLine("");
+
+            string keyToUpdate = "HR";
+
+            if (employeesDirectory.ContainsKey(keyToUpdate))
+            {
+                employeesDirectory[keyToUpdate] = new Employee("HR", "Eleka", 26, 18);
+                Console.WriteLine($"Employee with Role/ Key: {keyToUpdate} was updated.");
+            }
+            else
+                Console.WriteLine($"No employee found with key {keyToUpdate}.");
+
+
+            for (int i = 0; i < employeesDirectory.Count; i++)
+            {
+                KeyValuePair<string, Employee> keyValuePair = employeesDirectory.ElementAt(i);
+
+                Console.WriteLine($"Key: {keyValuePair.Key}");
+                Employee employeeValue = keyValuePair.Value;
+
+                Console.WriteLine($"Employee Name: {employeeValue.Name}, Role: {employeeValue.Role}, Age: {employeeValue.Age}, Salary: {employeeValue.Salary}.");
+            }
+
+
+            Console.WriteLine("");
+            Console.WriteLine("------------------------");
+            Console.WriteLine("");
+
+            string keyToRemove = "Intern";
+
+            if (employeesDirectory.Remove(keyToRemove))
+                Console.WriteLine($"Employee with Role/ Key: {keyToRemove} was removed.");
+
 
             Console.ReadKey();
         }
