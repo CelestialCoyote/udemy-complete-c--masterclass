@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{D9EC9BDF-935D-46A6-993F-3580FA73C35A}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Queue/Program.cs">
     <Files>
-      <File FileName="Queue/Program.cs" Line="2" Column="13" />
+      <File FileName="Queue/Program.cs" Line="78" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -16,7 +16,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Queue FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Queue PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
