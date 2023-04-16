@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{279C9DA2-FABB-483A-933D-C3949B788762}|Default">
+  <MonoDevelop.Ide.ItemProperties.InheritanceChallenge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InheritanceChallenge/Trainee.cs">
+    <Files>
+      <File FileName="InheritanceChallenge/Program.cs" Line="17" Column="29" />
+      <File FileName="InheritanceChallenge/Employee.cs" Line="12" Column="10" />
+      <File FileName="InheritanceChallenge/Boss.cs" Line="16" Column="34" />
+      <File FileName="InheritanceChallenge/Trainee.cs" Line="14" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InheritanceChallenge" expanded="True">
+            <Node name="InheritanceChallenge" expanded="True">
+              <Node name="Trainee.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

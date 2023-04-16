@@ -1,0 +1,6 @@
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section09/VirtualOverrideDemo/VirtualOverrideDemo/bin/Debug/VirtualOverrideDemo.exe
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section09/VirtualOverrideDemo/VirtualOverrideDemo/bin/Debug/VirtualOverrideDemo.pdb
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section09/VirtualOverrideDemo/VirtualOverrideDemo/obj/Debug/VirtualOverrideDemo.csproj.AssemblyReference.cache
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section09/VirtualOverrideDemo/VirtualOverrideDemo/obj/Debug/VirtualOverrideDemo.csproj.CoreCompileInputs.cache
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section09/VirtualOverrideDemo/VirtualOverrideDemo/obj/Debug/VirtualOverrideDemo.exe
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section09/VirtualOverrideDemo/VirtualOverrideDemo/obj/Debug/VirtualOverrideDemo.pdb
