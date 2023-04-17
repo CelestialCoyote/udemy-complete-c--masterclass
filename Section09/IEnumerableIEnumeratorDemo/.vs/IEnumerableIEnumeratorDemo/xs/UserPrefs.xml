@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C10D2201-7C82-4E6C-A03E-93D188E6EC51}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IEnumerableIEnumeratorDemo/Program.cs">
+    <Files>
+      <File FileName="IEnumerableIEnumeratorDemo/Program.cs" Line="24" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IEnumerableIEnumeratorDemo" expanded="True">
+            <Node name="IEnumerableIEnumeratorDemo" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.IEnumerableIEnumeratorDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

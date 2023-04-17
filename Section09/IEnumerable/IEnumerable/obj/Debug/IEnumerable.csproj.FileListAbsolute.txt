@@ -1,0 +1,6 @@
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section09/IEnumerable/IEnumerable/bin/Debug/IEnumerable.exe
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section09/IEnumerable/IEnumerable/bin/Debug/IEnumerable.pdb
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section09/IEnumerable/IEnumerable/obj/Debug/IEnumerable.csproj.AssemblyReference.cache
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section09/IEnumerable/IEnumerable/obj/Debug/IEnumerable.csproj.CoreCompileInputs.cache
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section09/IEnumerable/IEnumerable/obj/Debug/IEnumerable.exe
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section09/IEnumerable/IEnumerable/obj/Debug/IEnumerable.pdb

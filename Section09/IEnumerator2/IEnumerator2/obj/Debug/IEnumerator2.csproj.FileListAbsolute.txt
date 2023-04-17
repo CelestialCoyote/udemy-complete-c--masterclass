@@ -1,0 +1,6 @@
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section09/IEnumerator2/IEnumerator2/bin/Debug/IEnumerator2.exe
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section09/IEnumerator2/IEnumerator2/bin/Debug/IEnumerator2.pdb
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section09/IEnumerator2/IEnumerator2/obj/Debug/IEnumerator2.csproj.AssemblyReference.cache
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section09/IEnumerator2/IEnumerator2/obj/Debug/IEnumerator2.csproj.CoreCompileInputs.cache
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section09/IEnumerator2/IEnumerator2/obj/Debug/IEnumerator2.exe
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section09/IEnumerator2/IEnumerator2/obj/Debug/IEnumerator2.pdb
