@@ -1,0 +1,6 @@
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section09/InheritanceDemo2/InheritanceDemo2/bin/Debug/InheritanceDemo2.exe
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section09/InheritanceDemo2/InheritanceDemo2/bin/Debug/InheritanceDemo2.pdb
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section09/InheritanceDemo2/InheritanceDemo2/obj/Debug/InheritanceDemo2.csproj.AssemblyReference.cache
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section09/InheritanceDemo2/InheritanceDemo2/obj/Debug/InheritanceDemo2.csproj.CoreCompileInputs.cache
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section09/InheritanceDemo2/InheritanceDemo2/obj/Debug/InheritanceDemo2.exe
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section09/InheritanceDemo2/InheritanceDemo2/obj/Debug/InheritanceDemo2.pdb
