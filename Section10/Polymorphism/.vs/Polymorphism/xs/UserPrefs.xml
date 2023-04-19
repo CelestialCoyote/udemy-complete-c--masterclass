@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{EA9E23B4-E859-4143-9B73-3404F4FF8AAF}|Default">
+  <MonoDevelop.Ide.ItemProperties.Polymorphism PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Polymorphism/CarIDInfo.cs">
+    <Files>
+      <File FileName="Polymorphism/Program.cs" Line="36" Column="1" />
+      <File FileName="Polymorphism/Car.cs" Line="12" Column="1" />
+      <File FileName="Polymorphism/BMW.cs" Line="19" Column="22" />
+      <File FileName="Polymorphism/Audi.cs" Line="14" Column="20" />
+      <File FileName="Polymorphism/M3.cs" Line="14" Column="27" />
+      <File FileName="Polymorphism/CarIDInfo.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Polymorphism" expanded="True">
+            <Node name="Polymorphism" expanded="True">
+              <Node name="CarIDInfo.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

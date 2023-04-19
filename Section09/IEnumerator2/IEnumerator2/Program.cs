@@ -11,7 +11,6 @@ namespace IEnumerator2
             List<int> numberList = new List<int>() { 8, 6, 2 };
             int[] numberArray = new int[] { 1, 7, 1, 3 };
 
-            Console.WriteLine(" ");
             CollectionSum(numberList);
 
             Console.WriteLine("");
