@@ -38,7 +38,7 @@ namespace FileIO
             //File.WriteAllText(@"/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section10/input.txt", input);
 
 
-            using(StreamWriter file = new StreamWriter(@"/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section10/streamwriter_input.txt"))
+            using (StreamWriter file = new StreamWriter(@"/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section10/streamwriter_input.txt"))
             {
                 foreach (string line in lines2)
                 {
@@ -52,6 +52,25 @@ namespace FileIO
                 file.WriteLine("Additional line");
             }
 
+
+            // Challenge
+            string[] lines3 = File.ReadAllLines(@"/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section10/input.txt");
+            string[] words;
+
+            foreach (string line in lines3)
+            {
+                if (line.Contains("split"))
+                {
+                    words = line.Split(' ');
+                    Console.Write($"{words[4]} ");
+
+
+                    using (StreamWriter file = new StreamWriter(@"/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section10/output.txt", true))
+                    {
+                        file.Write($"{words[4]} ");
+                    }
+                }
+            }
 
             Console.ReadKey();
         }
