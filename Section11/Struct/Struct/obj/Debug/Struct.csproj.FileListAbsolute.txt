@@ -1,0 +1,6 @@
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section11/Struct/Struct/bin/Debug/Struct.exe
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section11/Struct/Struct/bin/Debug/Struct.pdb
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section11/Struct/Struct/obj/Debug/Struct.csproj.AssemblyReference.cache
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section11/Struct/Struct/obj/Debug/Struct.csproj.CoreCompileInputs.cache
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section11/Struct/Struct/obj/Debug/Struct.exe
+/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section11/Struct/Struct/obj/Debug/Struct.pdb

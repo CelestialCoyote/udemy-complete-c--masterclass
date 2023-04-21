@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{5EA3319A-5118-4043-93BD-1DFA49F4D8E1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="FileIO/Program.cs">
+﻿<Properties StartupConfiguration="{C1A90FD2-4C4C-47C4-8656-EC8548223458}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Struct/Program.cs">
     <Files>
-      <File FileName="FileIO/Program.cs" Line="77" Column="6" />
+      <File FileName="Struct/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="FileIO" expanded="True">
-            <Node name="FileIO" expanded="True">
+          <Node name="Struct" expanded="True">
+            <Node name="Struct" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.FileIO PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Struct FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
