@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{91523176-5243-4C04-8859-BB83EDF9FCDC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MathExample/Program.cs">
+﻿<Properties StartupConfiguration="{A190B710-8BB4-4F9F-9971-1A5B411BE865}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RandomExample/Program.cs">
     <Files>
-      <File FileName="MathExample/Program.cs" Line="30" Column="10" />
+      <File FileName="RandomExample/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="MathExample" expanded="True">
-            <Node name="MathExample" expanded="True">
+          <Node name="RandomExample" expanded="True">
+            <Node name="RandomExample" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,7 +16,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.MathExample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.RandomExample FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
