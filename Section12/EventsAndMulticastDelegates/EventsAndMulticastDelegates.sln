@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.25
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsAndMulticastDelegates", "EventsAndMulticastDelegates\EventsAndMulticastDelegates.csproj", "{E42242DF-9D35-4678-BAEF-B77CBA212EE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E42242DF-9D35-4678-BAEF-B77CBA212EE8}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E42242DF-9D35-4678-BAEF-B77CBA212EE8}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E42242DF-9D35-4678-BAEF-B77CBA212EE8}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E42242DF-9D35-4678-BAEF-B77CBA212EE8}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E52F3204-F8A5-4932-9E8D-3FFB9B758E0E}
+	EndGlobalSection
+EndGlobal
