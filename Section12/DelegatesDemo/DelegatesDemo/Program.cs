@@ -40,6 +40,34 @@ namespace DelegatesDemo
             DisplayPeople("Seniors", people, IsSenior);
 
 
+            FilterDelegate filter = delegate (Person p)
+            {
+                return p.Age >= 20 && p.Age <= 30;
+            };
+
+            DisplayPeople("Between 20 and 30", people, filter);
+            DisplayPeople("All:", people, delegate(Person p)
+            {
+                return true;
+            });
+
+
+            string searchKeyword = "A";
+            DisplayPeople("age > 20 with search keyword:" + searchKeyword, people,
+                p =>
+                {
+                    if (p.Name.Contains(searchKeyword) && p.Age > 20)
+                    {
+                        return true;
+                    }
+                    else
+                        return false;
+                }
+            );
+
+            DisplayPeople("exactly 25:", people, p => p.Age == 25);
+
+
             Console.ReadKey();
         }
 
@@ -77,5 +105,7 @@ namespace DelegatesDemo
         {
             return s.Contains("i");
         }
+
+
     }
 }
