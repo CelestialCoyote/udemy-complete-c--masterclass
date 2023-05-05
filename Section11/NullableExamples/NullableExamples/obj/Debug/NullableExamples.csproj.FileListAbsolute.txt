@@ -1,6 +1,0 @@
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section11/NullableExamples/NullableExamples/bin/Debug/NullableExamples.exe
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section11/NullableExamples/NullableExamples/bin/Debug/NullableExamples.pdb
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section11/NullableExamples/NullableExamples/obj/Debug/NullableExamples.csproj.AssemblyReference.cache
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section11/NullableExamples/NullableExamples/obj/Debug/NullableExamples.csproj.CoreCompileInputs.cache
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section11/NullableExamples/NullableExamples/obj/Debug/NullableExamples.exe
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section11/NullableExamples/NullableExamples/obj/Debug/NullableExamples.pdb

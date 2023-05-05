@@ -1,6 +1,0 @@
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section02/Constants/Constants/bin/Debug/Constants.exe
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section02/Constants/Constants/bin/Debug/Constants.pdb
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section02/Constants/Constants/obj/Debug/Constants.csproj.AssemblyReference.cache
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section02/Constants/Constants/obj/Debug/Constants.csproj.CoreCompileInputs.cache
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section02/Constants/Constants/obj/Debug/Constants.exe
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section02/Constants/Constants/obj/Debug/Constants.pdb

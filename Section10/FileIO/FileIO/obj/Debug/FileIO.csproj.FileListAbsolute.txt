@@ -1,6 +1,0 @@
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section10/FileIO/FileIO/bin/Debug/FileIO.exe
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section10/FileIO/FileIO/bin/Debug/FileIO.pdb
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section10/FileIO/FileIO/obj/Debug/FileIO.csproj.AssemblyReference.cache
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section10/FileIO/FileIO/obj/Debug/FileIO.csproj.CoreCompileInputs.cache
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section10/FileIO/FileIO/obj/Debug/FileIO.exe
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section10/FileIO/FileIO/obj/Debug/FileIO.pdb

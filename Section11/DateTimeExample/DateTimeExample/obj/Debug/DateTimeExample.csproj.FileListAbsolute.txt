@@ -1,6 +1,0 @@
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section11/DateTimeExample/DateTimeExample/bin/Debug/DateTimeExample.exe
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section11/DateTimeExample/DateTimeExample/bin/Debug/DateTimeExample.pdb
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section11/DateTimeExample/DateTimeExample/obj/Debug/DateTimeExample.csproj.AssemblyReference.cache
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section11/DateTimeExample/DateTimeExample/obj/Debug/DateTimeExample.csproj.CoreCompileInputs.cache
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section11/DateTimeExample/DateTimeExample/obj/Debug/DateTimeExample.exe
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section11/DateTimeExample/DateTimeExample/obj/Debug/DateTimeExample.pdb

@@ -1,6 +1,0 @@
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/ParamsKeyword/ParamsKeyword/bin/Debug/ParamsKeyword.exe
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/ParamsKeyword/ParamsKeyword/bin/Debug/ParamsKeyword.pdb
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/ParamsKeyword/ParamsKeyword/obj/Debug/ParamsKeyword.csproj.AssemblyReference.cache
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/ParamsKeyword/ParamsKeyword/obj/Debug/ParamsKeyword.csproj.CoreCompileInputs.cache
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/ParamsKeyword/ParamsKeyword/obj/Debug/ParamsKeyword.exe
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/ParamsKeyword/ParamsKeyword/obj/Debug/ParamsKeyword.pdb

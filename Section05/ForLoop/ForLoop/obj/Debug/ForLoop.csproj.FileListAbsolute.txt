@@ -1,6 +1,0 @@
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section05/ForLoop/ForLoop/bin/Debug/ForLoop.exe
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section05/ForLoop/ForLoop/bin/Debug/ForLoop.pdb
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section05/ForLoop/ForLoop/obj/Debug/ForLoop.csproj.AssemblyReference.cache
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section05/ForLoop/ForLoop/obj/Debug/ForLoop.csproj.CoreCompileInputs.cache
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section05/ForLoop/ForLoop/obj/Debug/ForLoop.exe
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section05/ForLoop/ForLoop/obj/Debug/ForLoop.pdb

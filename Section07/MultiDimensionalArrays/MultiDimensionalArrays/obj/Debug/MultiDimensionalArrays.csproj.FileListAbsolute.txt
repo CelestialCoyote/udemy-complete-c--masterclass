@@ -1,6 +1,0 @@
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/MultiDimensionalArrays/MultiDimensionalArrays/bin/Debug/MultiDimensionalArrays.exe
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/MultiDimensionalArrays/MultiDimensionalArrays/bin/Debug/MultiDimensionalArrays.pdb
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/MultiDimensionalArrays/MultiDimensionalArrays/obj/Debug/MultiDimensionalArrays.csproj.AssemblyReference.cache
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/MultiDimensionalArrays/MultiDimensionalArrays/obj/Debug/MultiDimensionalArrays.csproj.CoreCompileInputs.cache
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/MultiDimensionalArrays/MultiDimensionalArrays/obj/Debug/MultiDimensionalArrays.exe
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/MultiDimensionalArrays/MultiDimensionalArrays/obj/Debug/MultiDimensionalArrays.pdb

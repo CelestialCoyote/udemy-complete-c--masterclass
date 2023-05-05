@@ -1,6 +1,0 @@
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section11/RegexExample/RegexExample/bin/Debug/RegexExample.exe
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section11/RegexExample/RegexExample/bin/Debug/RegexExample.pdb
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section11/RegexExample/RegexExample/obj/Debug/RegexExample.csproj.AssemblyReference.cache
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section11/RegexExample/RegexExample/obj/Debug/RegexExample.csproj.CoreCompileInputs.cache
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section11/RegexExample/RegexExample/obj/Debug/RegexExample.exe
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section11/RegexExample/RegexExample/obj/Debug/RegexExample.pdb

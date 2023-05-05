@@ -1,6 +1,0 @@
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/ArrayListExample/ArrayListExample/bin/Debug/ArrayListExample.exe
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/ArrayListExample/ArrayListExample/bin/Debug/ArrayListExample.pdb
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/ArrayListExample/ArrayListExample/obj/Debug/ArrayListExample.csproj.AssemblyReference.cache
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/ArrayListExample/ArrayListExample/obj/Debug/ArrayListExample.csproj.CoreCompileInputs.cache
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/ArrayListExample/ArrayListExample/obj/Debug/ArrayListExample.exe
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/ArrayListExample/ArrayListExample/obj/Debug/ArrayListExample.pdb

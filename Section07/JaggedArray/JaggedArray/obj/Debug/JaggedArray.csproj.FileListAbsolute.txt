@@ -1,6 +1,0 @@
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/JaggedArray/JaggedArray/bin/Debug/JaggedArray.exe
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/JaggedArray/JaggedArray/bin/Debug/JaggedArray.pdb
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/JaggedArray/JaggedArray/obj/Debug/JaggedArray.csproj.AssemblyReference.cache
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/JaggedArray/JaggedArray/obj/Debug/JaggedArray.csproj.CoreCompileInputs.cache
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/JaggedArray/JaggedArray/obj/Debug/JaggedArray.exe
-/Users/Coyote/Documents/_CoyoteFiles/Programming/C#/udemy_CompleteC#Materclass/Section07/JaggedArray/JaggedArray/obj/Debug/JaggedArray.pdb
