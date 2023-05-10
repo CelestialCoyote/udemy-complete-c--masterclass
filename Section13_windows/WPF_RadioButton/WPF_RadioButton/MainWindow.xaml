@@ -1,0 +1,30 @@
+﻿<Window x:Class="WPF_RadioButton.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_RadioButton"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Margin="10">
+        <Label FontWeight="Bold" FontSize="20">Do you like C#</Label>
+        <RadioButton Margin="10" Checked="RadioButton_YesChecked">
+            <WrapPanel>
+                <Rectangle Fill="Green" Width="16" Height="16"></Rectangle>
+                <TextBlock Text="Yes" Foreground="Green" Margin="5, 0, 0, 0"></TextBlock>
+            </WrapPanel>
+        </RadioButton>
+        <RadioButton Margin="10" Checked="RadioButton_NoChecked">
+            <WrapPanel>
+                <Rectangle Fill="Red" Width="16" Height="16"></Rectangle>
+                <TextBlock Text="No" Foreground="Red" Margin="5, 0, 0, 0"></TextBlock>
+            </WrapPanel>
+        </RadioButton>
+        <RadioButton Margin="10" IsChecked="True" Checked="RadioButton_MaybeChecked">
+            <WrapPanel>
+                <Image Source="C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section13_windows\husky.png" Width="16" Height="16"></Image>
+                <TextBlock Text="Maybe" Margin="5, 0, 0, 0"></TextBlock>
+            </WrapPanel>
+        </RadioButton>
+    </StackPanel>
+</Window>
