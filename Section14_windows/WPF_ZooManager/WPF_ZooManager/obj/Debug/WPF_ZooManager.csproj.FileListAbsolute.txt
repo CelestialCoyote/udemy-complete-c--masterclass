@@ -1,0 +1,16 @@
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section14_windows\WPF_ZooManager\WPF_ZooManager\bin\Debug\WPF_ZooManager.exe.config
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section14_windows\WPF_ZooManager\WPF_ZooManager\bin\Debug\WPF_ZooManager.exe
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section14_windows\WPF_ZooManager\WPF_ZooManager\bin\Debug\WPF_ZooManager.pdb
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section14_windows\WPF_ZooManager\WPF_ZooManager\obj\Debug\WPF_ZooManager.csproj.AssemblyReference.cache
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section14_windows\WPF_ZooManager\WPF_ZooManager\obj\Debug\WPF_ZooManager.csproj.SuggestedBindingRedirects.cache
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section14_windows\WPF_ZooManager\WPF_ZooManager\obj\Debug\MainWindow.g.cs
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section14_windows\WPF_ZooManager\WPF_ZooManager\obj\Debug\App.g.cs
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section14_windows\WPF_ZooManager\WPF_ZooManager\obj\Debug\WPF_ZooManager_MarkupCompile.cache
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section14_windows\WPF_ZooManager\WPF_ZooManager\obj\Debug\WPF_ZooManager_MarkupCompile.lref
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section14_windows\WPF_ZooManager\WPF_ZooManager\obj\Debug\MainWindow.baml
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section14_windows\WPF_ZooManager\WPF_ZooManager\obj\Debug\WPF_ZooManager.g.resources
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section14_windows\WPF_ZooManager\WPF_ZooManager\obj\Debug\WPF_ZooManager.Properties.Resources.resources
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section14_windows\WPF_ZooManager\WPF_ZooManager\obj\Debug\WPF_ZooManager.csproj.GenerateResource.cache
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section14_windows\WPF_ZooManager\WPF_ZooManager\obj\Debug\WPF_ZooManager.csproj.CoreCompileInputs.cache
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section14_windows\WPF_ZooManager\WPF_ZooManager\obj\Debug\WPF_ZooManager.exe
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section14_windows\WPF_ZooManager\WPF_ZooManager\obj\Debug\WPF_ZooManager.pdb
