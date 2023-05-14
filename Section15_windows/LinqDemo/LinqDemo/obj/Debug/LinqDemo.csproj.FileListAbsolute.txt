@@ -1,0 +1,8 @@
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section15_windows\LinqDemo\LinqDemo\bin\Debug\LinqDemo.exe.config
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section15_windows\LinqDemo\LinqDemo\bin\Debug\LinqDemo.exe
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section15_windows\LinqDemo\LinqDemo\bin\Debug\LinqDemo.pdb
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section15_windows\LinqDemo\LinqDemo\obj\Debug\LinqDemo.csproj.AssemblyReference.cache
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section15_windows\LinqDemo\LinqDemo\obj\Debug\LinqDemo.csproj.SuggestedBindingRedirects.cache
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section15_windows\LinqDemo\LinqDemo\obj\Debug\LinqDemo.csproj.CoreCompileInputs.cache
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section15_windows\LinqDemo\LinqDemo\obj\Debug\LinqDemo.exe
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section15_windows\LinqDemo\LinqDemo\obj\Debug\LinqDemo.pdb
