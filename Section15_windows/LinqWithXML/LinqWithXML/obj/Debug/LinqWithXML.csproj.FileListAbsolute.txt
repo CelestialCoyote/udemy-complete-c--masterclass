@@ -1,0 +1,8 @@
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section15_windows\LinqWithXML\LinqWithXML\bin\Debug\LinqWithXML.exe.config
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section15_windows\LinqWithXML\LinqWithXML\bin\Debug\LinqWithXML.exe
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section15_windows\LinqWithXML\LinqWithXML\bin\Debug\LinqWithXML.pdb
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section15_windows\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.csproj.AssemblyReference.cache
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section15_windows\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.csproj.SuggestedBindingRedirects.cache
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section15_windows\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.csproj.CoreCompileInputs.cache
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section15_windows\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.exe
+C:\CoyoteFiles\ProgrammingLanguages\C#\Udemy_CompleteC#MasterClass\Section15_windows\LinqWithXML\LinqWithXML\obj\Debug\LinqWithXML.pdb
